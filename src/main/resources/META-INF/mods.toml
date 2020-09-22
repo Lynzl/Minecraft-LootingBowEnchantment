@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+license="MPL-2.0 License"
+
+[[mods]]
+modId="lootingbowenchantment"
+version="1.0.0"
+displayName="LootingBowEnchantment"
+authors="Lynzel"
